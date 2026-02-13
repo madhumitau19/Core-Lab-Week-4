@@ -34,7 +34,7 @@ h3{
     position: absolute;
 }
 .parent{
-    margin-top: 400px;
+    margin-top: 40px;
 }
 
 .blur3{
@@ -45,8 +45,4 @@ h3{
     position: absolute;
 }
 
-button{
-    width: 200px;
-    background-color: blueviolet;
-    color: tomato;
-}
+
