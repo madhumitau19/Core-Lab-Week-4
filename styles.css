@@ -6,10 +6,18 @@
 body{
     background-color: black;
 }
+h1{
+    color: rgb(92, 205, 11);
+}
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15em;
     color: deeppink;
     letter-spacing: -10pt;
 }
-
+h3{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12em;
+    color:rgb(92, 205, 11);
+    letter-spacing: 20pt;
+}
