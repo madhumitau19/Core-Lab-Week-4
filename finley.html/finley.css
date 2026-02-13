@@ -44,3 +44,9 @@ h3{
     letter-spacing: -10pt;
     position: absolute;
 }
+
+button{
+    width: 200px;
+    background-color: blueviolet;
+    color: tomato;
+}
