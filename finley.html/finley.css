@@ -1,0 +1,46 @@
+h1{
+    color: rgb(92, 205, 11);
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15em;
+    color: deeppink;
+    letter-spacing: -10pt;
+    filter: blur(30px);
+    position: absolute;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12em;
+    color:rgb(92, 205, 11);
+    letter-spacing: 20pt;
+}
+
+.blur1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15em;
+    color: deeppink;
+    letter-spacing: -10pt;
+    position: absolute;
+    filter: blur(20px);
+}
+
+.blur2{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15em;
+    color: deeppink;
+    letter-spacing: -10pt;
+    filter: blur(10px);
+    position: absolute;
+}
+.parent{
+    margin-top: 400px;
+}
+
+.blur3{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15em;
+    color: deeppink;
+    letter-spacing: -10pt;
+    position: absolute;
+}
