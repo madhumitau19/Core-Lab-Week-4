@@ -13,3 +13,9 @@ body{
    color: blue;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
 }
+
+button{
+    width: 200px;
+    background-color: blueviolet;
+    color: tomato;
+}
