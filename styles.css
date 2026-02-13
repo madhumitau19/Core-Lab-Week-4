@@ -17,22 +17,12 @@ h2{
     filter: blur(30px);
     position: absolute;
 }
-<<<<<<< HEAD
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> finley
 h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 12em;
     color:rgb(92, 205, 11);
     letter-spacing: 20pt;
-<<<<<<< HEAD
-=======
-=======
 }
->>>>>>> Stashed changes
->>>>>>> finley
 
 .blur1{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -61,5 +51,5 @@ h3{
     color: deeppink;
     letter-spacing: -10pt;
     position: absolute;
->>>>>>> finley
+
 }
