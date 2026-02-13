@@ -23,6 +23,7 @@ h3{
     color:rgb(92, 205, 11);
     letter-spacing: 20pt;
 }
+
 .blur1{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15em;
@@ -50,6 +51,7 @@ h3{
     color: deeppink;
     letter-spacing: -10pt;
     position: absolute;
+
 }
 
 .testing{
